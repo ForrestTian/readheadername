@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun 11 11:04:09 2024
-For GISLab04 Function
 @author: Forrest Tian
 """
 
